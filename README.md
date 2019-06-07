@@ -1,2 +1,2 @@
 # ConsoleSpring
-Primeiros passos com Spring. Aplicação console configurada manualmente, utilizando um exemplo básico e minimalista
+Get started with Spring. Application configured manually, using a basic and minimalist example
